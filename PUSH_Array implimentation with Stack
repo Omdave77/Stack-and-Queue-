@@ -1,0 +1,11 @@
+push()
+pop()
+top()
+isFull()
+isEmpty()
+---------------------------
+
+#include<stdio.h>
+#include<stdlib.h>
+
+
